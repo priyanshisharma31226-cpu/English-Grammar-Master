@@ -1,0 +1,21 @@
+
+{
+  "id": "/English-Grammar-Master/",
+  "name": "English Grammar Master",
+  "short_name": "Grammar Master",
+  "description": "Learn English Grammar with Hindi explanations",
+  "start_url": "/English-Grammar-Master/",
+  "scope": "/English-Grammar-Master/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4f7fb",
+  "theme_color": "#172554",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
